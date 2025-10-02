@@ -3,7 +3,8 @@
 Конфиг предназначен для использования внутри России и предоставляет расширенные правила маршрутизации трафика через прокси. Подходит для тестирования, примеров и персональной настройки. 
 
 - Купить VPN ключ: [https://t.me/VTSLYVPN_bot](https://t.me/VTSLYVPN_bot)  
-- Ссылка на Prizrak-BOX: [https://github.com/legiz-ru/Prizrak-Box/releases/tag/v1.0.19](https://github.com/legiz-ru/Prizrak-Box/releases/tag/v1.0.19)  
+- Ссылка на Prizrak-BOX: [https://github.com/legiz-ru/Prizrak-Box/releases/tag/v1.0.19](https://github.com/legiz-ru/Prizrak-Box/releases/tag/v1.0.19)
+-  Ссылка на Prizrak-BOX v1.0.20-alpha19: [v1.0.20-alpha19](https://github.com/legiz-ru/Prizrak-Box/releases/tag/v1.0.20-alpha1)
 - В таком формате импорт профиля/ключа: `prizrak-box://install-config?url=(ключ)`
 
 ## Скриншоты
